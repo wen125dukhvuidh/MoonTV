@@ -83,7 +83,7 @@
     }
     "gongchang": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "影视工厂"
+      "name": "影视工场"
     }
     "qiqi": {
       "api": "https://www.qiqidys.com/api.php/provide/vod",
